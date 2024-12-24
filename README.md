@@ -1,26 +1,29 @@
 # **Hyposcript**
 
-**Hyposcript** is a custom **programming language** created by **Jobayer Islam Jarif**. It uses **hyphens (`-`)** and **underscores (`_`)** to encode letters, numbers, and symbols. **Spaces** are represented by `___`. Each character has a unique, lightweight pattern, making Hyposcript ideal for encoding and experimentation.
+**Hyposcript** is a custom **programming language** created by **Jobayer Islam Jarif**. It uses **hyphens (`-`)** and **underscores (`_`)** to encode letters, numbers, and symbols. **Spaces** are represented by `____`. Every character is encoded with a unique combination of these two symbols, making **Hyposcript** a powerful tool for encoding, experimentation, and creative projects.
 
 ## **Features**
-- **Unique Encoding**: Letters, numbers, and symbols are represented using combinations of `-` and `_`.
-- **Lightweight Syntax**: Simple and easy to learn.
-- **Creative Design**: Perfect for exploring programming language concepts.
+- **Unique Encoding**: Letters, numbers, and symbols are encoded using combinations of `-` and `_`.
+- **Simple Syntax**: Easy to learn and use, designed for quick encoding.
+- **Flexible Encoding**: Suitable for text encoding, cryptography, and language creation.
 
 ## **Syntax**
 - **Alphabet Example**:  
-  `A` → `-`  
-  `B` → `_-`
+  `A` → `--_`  
+  `B` → `--_-`
 
 - **Number Example**:  
-  `1` → `_-`  
+  `1` → `--_--`
+
+- **Symbol Example**:  
+  `!` → `-_-_-_`
 
 - **Space**:  
-  `___`
+  `____`
 
 ## **Example**
 **Input**: `Hello World!`  
-**Encoded**: `-_- _-_- --_- --_- -_- ___ --_- -_-_ -_-_ _- --_-!`
+**Encoded**: `-_ _-_-- _-__-_-_ _-_-- _--_ -_-_-_-`
 
 ## **License**
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
