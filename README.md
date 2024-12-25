@@ -1,112 +1,31 @@
 # **Hyposcript**
 
-**Hyposcript** is a custom **programming language** created by **Jobayer Islam Jarif**. It uses **hyphens (`-`)** and **underscores (`_`)** to encode letters, numbers, and symbols. **Spaces** are represented by `____`. Every character is encoded with a unique combination of these two symbols, making **Hyposcript** a powerful tool for encoding, experimentation, and creative projects.
+**Hyposcript** is a custom **programming language** created by **Jobayer Islam Jarif**. It encodes characters using combinations of **hyphens (`-`)** and **underscores (`_`)**. This makes **Hyposcript** an interesting tool for encoding, cryptography, and creative programming.
 
 ## **Features**
-- **Unique Encoding**: Letters, numbers, and symbols are encoded using combinations of `-` and `_`.
-- **Simple Syntax**: Easy to learn and use, designed for quick encoding.
-- **Flexible Encoding**: Suitable for text encoding, cryptography, and language creation.
+- **Unique Encoding**: Uses `-` and `_` to encode characters.
+- **Simple Syntax**: Easy to learn and use.
+- **Flexible**: Useful for encryption, AI development, and experimental programming.
 
-## **Syntax**
-### **Alphabet Encoding**
-- **Lowercase Letters**:
-  - `a` → `-_-_`
-  - `b` → `-_-_-`
-  - `c` → `-_-_--`
-  - `d` → `-_-_-_`
-  - `e` → `-_-__`
-  - `f` → `-_-_-_`
-  - `g` → `-_-_--`
-  - `h` → `-_-__-`
-  - `i` → `-_-_-_`
-  - `j` → `-_-__--`
-  - `k` → `-_-__-`
-  - `l` → `-_-_-_`
-  - `m` → `-_-_--`
-  - `n` → `-_-_-`
-  - `o` → `-_-_--`
-  - `p` → `-_-__-`
-  - `q` → `-_-_--`
-  - `r` → `-_-_-_`
-  - `s` → `-_-__-`
-  - `t` → `-_-_-_`
-  - `u` → `-_-_-`
-  - `v` → `-_-__-`
-  - `w` → `-_-_-_`
-  - `x` → `-_-__-`
-  - `y` → `-_-_-`
-  - `z` → `-_-__-`
-
-- **Uppercase Letters**:
-  - `A` → `--_`
-  - `B` → `--_-`
-  - `C` → `-_-_`
-  - `D` → `-_-_-`
-  - `E` → `-_--`
-  - `F` → `-_-_`
-  - `G` → `_--`
-  - `H` → `-_-_-`
-  - `I` → `-_-_`
-  - `J` → `-_-__-`
-  - `K` → `_--_`
-  - `L` → `--_-`
-  - `M` → `_---`
-  - `N` → `--__`
-  - `O` → `_--_`
-  - `P` → `-__--`
-  - `Q` → `_---`
-  - `R` → `_--_`
-  - `S` → `_--_`
-  - `T` → `--__`
-  - `U` → `_--`
-  - `V` → `__-`
-  - `W` → `_--__`
-  - `X` → `_---`
-  - `Y` → `--__`
-  - `Z` → `__--`
-
-### **Numbers**
-- `0` → `-_-__--_`
-- `1` → `--_--`
-- `2` → `-_-_`
-- `3` → `--_-`
-- `4` → `_--_`
-- `5` → `-_-_`
-- `6` → `--_--_`
-- `7` → `_---_`
-- `8` → `--__`
-- `9` → `_--_`
-
-### **Symbols**
-- `.` → `-_--`
-- `,` → `-__-`
-- `?` → `--_-`
-- `!` → `-_-_`
-- `@` → `-_-_`
-- `#` → `--__`
-- `$` → `_---`
-- `%` → `-_-_`
-- `&` → `--_`
-- `*` → `--_-`
-- `(` → `-__-`
-- `)` → `_--_`
-- `_` → `__`
-- `-` → `--_`
-- `=` → `-_-_-`
-- `+` → `-_-`
-- `/` → `-_-_`
-- `\` → `--_`
-- `:` → `-_-__`
-- `;` → `_--_`
-- `'` → `--_`
-- `"` → `_--_`
-- `<` → `--_--`
-- `>` → `_--__`
-- **Space**: `____`
+## **What Can You Do with Hyposcript?**
+- **Encryption**: Encode and decode messages securely using a simple cipher.
+- **AI Development**: Use encoded data for training models or creating AI-related experiments.
+- **Programming**: Develop simple programs or even create new languages using Hyposcript.
+- **Cryptography**: A fun way to experiment with text transformations and secure communications.
+- **Creative Projects**: Encode secret messages for games, stories, or artwork.
 
 ## **Example**
-**Input**: `Hello World!`  
-**Encoded**: `-_-_ _-_-- _-__-_-_ _-_-- _--_ -_-_-_-`
+- **Encode "A"**:  
+  `A → --_`
+  
+- **Encode "1"**:  
+  `1 → --_--`
+
+- **Symbol Encoding**:  
+  `! → -_-_`
+  
+- **Space Encoding**:  
+  `Space → ____`
 
 ## **License**
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
