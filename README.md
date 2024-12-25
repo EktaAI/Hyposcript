@@ -1,6 +1,12 @@
 # **Hyposcript**
 
-![Number of GitHub contributors](https://img.shields.io/github/contributors/HypoDev/Hyposcript)  [![Number of GitHub issues that are open](https://img.shields.io/github/issues/HypoDev/Hyposcript)](https://github.com/HypoDev/Hyposcript/issues)  [![Number of GitHub stars](https://img.shields.io/github/stars/HypoDev/Hyposcript)](https://github.com/HypoDev/Hyposcript/stargazers)  ![Number of GitHub closed issues](https://img.shields.io/github/issues-closed/HypoDev/Hyposcript)  ![Number of GitHub pull requests that are open](https://img.shields.io/github/issues-pr-raw/HypoDev/Hyposcript)  [![GitHub license](https://img.shields.io/github/license/HypoDev/Hyposcript)](https://github.com/HypoDev/Hyposcript/blob/main/LICENSE)  [![Follow us on Twitter](https://img.shields.io/twitter/follow/Hypo_Dev?style=social)](https://twitter.com/Hypo_Dev)
+![Number of GitHub contributors](https://img.shields.io/github/contributors/HypoDev/Hyposcript)  
+[![Number of GitHub issues that are open](https://img.shields.io/github/issues/HypoDev/Hyposcript)](https://github.com/HypoDev/Hyposcript/issues)  
+[![Number of GitHub stars](https://img.shields.io/github/stars/HypoDev/Hyposcript)](https://github.com/HypoDev/Hyposcript/stargazers)  
+![Number of GitHub closed issues](https://img.shields.io/github/issues-closed/HypoDev/Hyposcript)  
+![Number of GitHub pull requests that are open](https://img.shields.io/github/issues-pr-raw/HypoDev/Hyposcript)  
+[![GitHub license](https://img.shields.io/github/license/HypoDev/Hyposcript)](https://github.com/HypoDev/Hyposcript/blob/main/LICENSE)  
+[![Follow us on Twitter](https://img.shields.io/twitter/follow/Hypo_Dev?style=social)](https://twitter.com/Hypo_Dev)
 
 ---
 
@@ -74,7 +80,8 @@ Here are some examples of how symbols are encoded:
 | B      | --_-_---   |
 | C      | -_-__-__   |
 | D      | -_-__-___  |
-| E      | --_-__     | F      | _-_-__     |
+| E      | --_-__     |
+| F      | _-_-__     |
 | G      | --__-____  |
 | H      | -__-_      |
 | I      | _-__--     |
