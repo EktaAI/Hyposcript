@@ -24,14 +24,14 @@ Hyposcript is an **innovative programming language** created by **Jobayer Islam 
 Here’s how "Hello World" is encoded in Hyposcript:
 
 **Input**: `Hello World`  
-**Encoded**: `-_ -_--_ -_-_-__ -_-_-_ -_--_ ____ -__-_ -_-_-__ -_-_-__ -_--_ -_-_-_-`
+**Encoded**: `-__-_ _-_ _--__- _--__- --_-____ _____ _--___ --_-____ -_---_ _--__- -_--__`
 
 ### Punctuation Marks
 Here are some examples of how symbols are encoded:  
-- **!** → `-_-_-_`  
-- **@** → `-_-__-`  
+- **!** → `--_--_`  
+- **@** → `--_-_---`  
 - **#** → `--__`  
-- **Space** → `____`
+- **Space** → `_____`
 
 ---
 
