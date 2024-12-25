@@ -15,6 +15,14 @@
 - **Creative Projects**: Encode secret messages for games, stories, or artwork.
 
 ## **Example**
+### **Hello World!**  
+- **Input**: `Hello World!`
+- **Encoded**:  
+  `-_-- _-_-- _-__-_-_ _-_-- _--_ -_-_-_-`
+  
+  Each letter and symbol is encoded with a unique combination of hyphens and underscores.
+
+### **Other Examples**:
 - **Encode "A"**:  
   `A → --_`
   
